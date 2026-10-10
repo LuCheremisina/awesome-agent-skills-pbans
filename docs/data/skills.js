@@ -11,7 +11,7 @@ const SKILLS = [
       "analytics",
       "content"
     ],
-    "description": "27 original marketing workflows for research, SEO/GEO, Yandex search and advertising analytics, and sourced content. Individual inputs, integrations and runtime limits are documented; 14 licensed engineering skills are optional.",
+    "description": "34 original marketing workflows for research, SEO/GEO, Yandex search and advertising analytics, and sourced content. Individual inputs, integrations and runtime limits are documented; 14 licensed engineering skills are optional.",
     "repo": "https://github.com/LuCheremisina/marketing-skills",
     "stars": null,
     "harnesses": [
